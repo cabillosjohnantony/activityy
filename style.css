@@ -1,0 +1,40 @@
+#button{
+position: absolute;
+left: 28%;
+background-color: #ffeb3b;
+top: 10%;
+color: black;
+width: 95;
+}
+
+#d{
+position: absolute;
+top: 15;
+left: 5%;
+border: solid black 2px;
+font-weight: bold;
+}
+
+#b{
+position: absolute;
+left: 20%;
+top: 2.2%;
+border: solid black 2px;
+font-weight: bold;
+}
+
+#o{
+position: absolute;
+top: 2.2%;
+left: 35%;
+border: solid black 2px;
+font-weight: bold;
+}
+
+#h{
+position: absolute;
+border: solid black 2px;
+left: 50%;
+top: 2.2%;
+font-weight: bold;
+}
